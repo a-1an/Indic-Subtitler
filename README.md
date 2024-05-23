@@ -154,4 +154,4 @@ Next.js, being a React framework, offers you all the benefits of React plus more
 Framework: Next.js (enables SSR and SSG, improving load times and SEO)
 Styling: Tailwind CSS or styled-components (for styling with ease and efficiency)
 
-
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kurianbenoy/Indic-Subtitler)
